@@ -1,59 +1,92 @@
-# FirstAngular
+# 🚀 EasyTask -- Angular Task Manager
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.2.3.
+A modern task management application built with Angular, created to
+demonstrate core Angular concepts through a clean, interactive, and
+user-friendly interface.
 
-## Development server
+## 🌐 Live Demo
 
-To start a local development server, run:
+👉 https://your-demo-link.com
 
-```bash
-ng serve
-```
+------------------------------------------------------------------------
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+## 📌 About The Project
 
-## Code scaffolding
+**EasyTask** is a task management web application where users can: -
+View tasks assigned to different users - Add new tasks - Mark tasks as
+completed - Dynamically update and manage task data
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+This project was built as part of an Angular learning journey and
+focuses on both fundamental and modern Angular features.
 
-```bash
-ng generate component component-name
-```
+------------------------------------------------------------------------
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+## 🖼️ Application Overview
 
-```bash
-ng generate --help
-```
+The app includes: - 👥 Sidebar with selectable users\
+- 📋 Task list per selected user\
+- 📝 Task cards with title, date, and description\
+- ✅ "Complete" action for tasks\
+- ➕ Ability to add new tasks
 
-## Building
+------------------------------------------------------------------------
 
-To build the project run:
+## ⚙️ Tech Stack
 
-```bash
-ng build
-```
+-   Angular (latest version)
+-   TypeScript
+-   HTML5
+-   CSS3
+-   Angular CLI
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+------------------------------------------------------------------------
 
-## Running unit tests
+## 🧠 Key Concepts Covered
 
-To execute unit tests with the [Vitest](https://vitest.dev/) test runner, use the following command:
+### 🧩 Components
 
-```bash
-ng test
-```
+-   Creating reusable UI components
+-   Component structure and organization
 
-## Running end-to-end tests
+### 🔗 Data Binding
 
-For end-to-end (e2e) testing, run:
+-   String interpolation
+-   Property binding
+-   Event binding
+-   Two-way binding
 
-```bash
-ng e2e
-```
+### 📥 Inputs & Outputs
 
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
+-   Passing data between components
+-   Emitting custom events
 
-## Additional Resources
+### ⚡ Signals
 
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+-   Reactive state management using Angular Signals
+-   Signal-based inputs
+
+### 🔄 Directives
+
+-   Conditional rendering
+-   Rendering lists (`ngIf`, `ngFor`)
+
+### 🎨 Styling
+
+-   Dynamic class binding
+-   Component-scoped styles
+
+### 🧱 Project Architecture
+
+-   Clean structure
+-   Separation of logic and UI
+-   Data models in separate files
+
+### 🧰 Services & Dependency Injection
+
+-   Sharing logic across components
+-   Dependency injection
+
+### 📋 Forms
+
+-   Handling user input
+-   Form submission logic
