@@ -4,9 +4,7 @@ A modern task management application built with Angular, created to
 demonstrate core Angular concepts through a clean, interactive, and
 user-friendly interface.
 
-## 🌐 Live Demo
-
-👉 https://olhakostovetska.github.io/easytask-angular/
+[![Live Demo](https://img.shields.io/badge/demo-live-green)](https://olhakostovetska.github.io/easytask-angular/)
 
 ------------------------------------------------------------------------
 
