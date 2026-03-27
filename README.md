@@ -6,7 +6,7 @@ user-friendly interface.
 
 ## 🌐 Live Demo
 
-👉 https://your-demo-link.com
+👉 https://olhakostovetska.github.io/easytask-angular/
 
 ------------------------------------------------------------------------
 
